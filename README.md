@@ -1,6 +1,6 @@
 # Sightspeak
  
-*SightSpeak** is an AI-powered FastAPI backend that allows visually impaired users to "see" through image understanding. By uploading images or capturing them via webcam, the system generates spoken descriptions, detects objects, and reads text from the image aloud using OCR and TTS.
+**SightSpeak** is an AI-powered FastAPI backend that allows visually impaired users to "see" through image understanding. By uploading images or capturing them via webcam, the system generates spoken descriptions, detects objects, and reads text from the image aloud using OCR and TTS.
 
 ## 🧠 Features
 - 📸 **Image Captioning** – Generates natural-language descriptions of images
